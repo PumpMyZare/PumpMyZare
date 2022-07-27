@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PumpMyZare
+- 👀 I’m interested in CLI Apps, CNCS 
+- 🌱 I’m currently learning Python
+- 📫 How to reach me @pumpmyzare on instagram
